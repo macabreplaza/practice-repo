@@ -1,27 +1,26 @@
-## First Name Last Name
-
-### Term Year 
+## Carmen Mann
+### 2024 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Data Analytics
 
-- Course 2
+- Statistics 1
 
-- Course 3
+- Computer Networking and Communications
 
-- Course 4
+- Environmental Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- 2D animation
 
-- Thing 2
+- Playing the electric guitar
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Sketching and drawing
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/08/29
